@@ -27,7 +27,7 @@
     * Kruskal algorithm
     * Prim algorithm
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)
 
 </br>
 
@@ -54,7 +54,7 @@
 * Array 를 기반으로한 Linked List 구현
 * ArrayList 를 기반으로한 Linked List 구현
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-2-datastructure)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-2-datastructure)
 
 ---
 
@@ -77,7 +77,7 @@
 * Stack 두 개로 Queue 자료구조 구현하기
 * Stack 으로 괄호 유효성 체크 코드 구현하기
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-2-datastructure)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-2-datastructure)
 
 ---
 
@@ -127,7 +127,7 @@
 * Binary Search Tree 구현하기
 * 주어진 트리가 Binary 트리인지 확인하는 알고리즘 구현하기
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-2-datastructure)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-2-datastructure)
 
 </br>
 
@@ -143,7 +143,7 @@
 
 * Heapify 구현하기
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-2-datastructure)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-2-datastructure)
 
 </br>
 
@@ -182,7 +182,7 @@ _RBT 는 BST 의 삽입, 삭제 연산 과정에서 발생할 수 있는 문제�
 
 Java Collection 에서 ArrayList 도 내부적으로 RBT 로 이루어져 있고, HashMap 에서의 `Separate Chaining`에서도 사용된다. 그만큼 효율이 좋고 중요한 자료구조이다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-2-datastructure)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-2-datastructure)
 
 ---
 
@@ -268,7 +268,7 @@ Collision 이 많아질 수록 Search 에 필요한 Time Complexity 가 O(1)에�
 
 * http://d2.naver.com/helloworld/831311
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-2-datastructure)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-2-datastructure)
 
 ---
 
@@ -376,6 +376,4 @@ Graph 의 각 vertex 에 `set-id`라는 것을 추가적으로 부여한다. 그
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-2-datastructure)
-
-_DataStructure.end_
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-2-datastructure)

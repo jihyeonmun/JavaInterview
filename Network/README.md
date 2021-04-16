@@ -8,7 +8,8 @@
 * [DNS Round Robin 방식](#dns-round-robin-방식)
 * [웹 통신의 큰 흐름](#웹-통신의-큰-흐름)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)
+
 
 </br>
 
@@ -29,7 +30,6 @@ _그렇다면 이러한 특성을 이해한 뒤에는 어디에 적용되는지�
 
 부수적인 차이점을 좀 더 살펴보자면 GET 방식의 요청은 브라우저에서 Caching 할 수 있다. 때문에 POST 방식으로 요청해야 할 것을 보내는 데이터의 크기가 작고 보안적인 문제가 없다는 이유로 GET 방식으로 요청한다면 기존에 caching 되었던 데이터가 응답될 가능성이 존재한다. 때문에 목적에 맞는 기술을 사용해야 하는 것이다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-3-network)
 
 </br>
 
@@ -68,7 +68,6 @@ _그렇다면 이러한 특성을 이해한 뒤에는 어디에 적용되는지�
 * http://d2.naver.com/helloworld/47667
 * http://asfirstalways.tistory.com/327
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-3-network)
 
 </br>
 
@@ -137,7 +136,6 @@ HTTPS 의 SSL 에서는 공통키 암호화 방식과 공개키 암호화 방식
 _cf) HTTP 2.0 이 발전되면서 HTTPS 가 HTTP 보다 빠르다는 사실이 나왔는데요, 다음 링크를 통해 보다 자세한 내용을 확인하실 수 있습니다._
 관련 링크 : [HTTPS 가 HTTP 보다 빠르다.](https://tech.ssut.me/https-is-faster-than-http/)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-3-network)
 
 </br>
 
@@ -164,7 +162,6 @@ _Round Robin 방식을 기반으로 단점을 해소하는 DNS 스케줄링 알�
 
 접속 클라이언트 수가 가장 적은 서버를 선택한다. 로드밸런서에서 실시간으로 connection 수를 관리하거나 각 서버에서 주기적으로 알려주는 것이 필요하다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-3-network)
 
 </br>
 
@@ -236,7 +233,7 @@ _우리가 Chrome 을 실행시켜 주소창에 특정 URL 값을 입력시키�
 * (도서) [HTTP 완벽 가이드](http://www.yes24.com/24/Goods/15381085?Acode=101)
 * Socket programming (Multi-chatting program)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-3-network)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-3-network)
 
 </br>
 

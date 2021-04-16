@@ -5,7 +5,7 @@
 * [Sorting Algorithm](#sorting-algorithm)
 * [Prime Number Algorithm](#prime-number-algorithm)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)
 
 ## 코딩 테스트를 위한 Tip
 
@@ -53,7 +53,7 @@
 
 특정 접근법이 효과적이지 않다고 느끼면 다른 접근 방식을 시도 할 때가 있습니다. 물론 너무 쉽게 포기해서는 안됩니다. 그러나 열매를 맺지 않고도 유망한 생각이 들지 않는 접근법에 몇 분을 소비했다면, 백업하고 다른 것을 시도해보십시오. 저는 덜 접근한 지원자보다 한참 더 많이 나아간 지원자를 많이 보았습니다. 즉, (모두 평등 한) 다른 사람들이 좀 더 기민한 접근 방식을 포기해야 한다는 것을 의미합니다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#algorithm)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#algorithm)
 
 </br>
 
@@ -159,7 +159,7 @@ greedy 는 각 단계마다 지금 당장 가장 좋은 방법만을 선택하�
 
 [프로그래밍 대회에서 배우는 알고리즘 문제 해결 전략](http://www.yes24.com/24/Goods/8006522?Acode=101)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#algorithm)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#algorithm)
 
 </br>
 
@@ -179,7 +179,6 @@ n 개의 원소를 가진 배열을 정렬할 때, In-place sort 로 인접한 �
 | :--------------: | :-------------: |
 |       O(1)       |     O(n^2)      |
 
-#### [code](https://github.com/JaeYeopHan/algorithm_basic_java/blob/master/src/test/java/sort/BubbleSort.java)
 
 </br>
 
@@ -191,7 +190,6 @@ n 개의 원소를 가진 배열을 정렬할 때, 계속해서 바꾸는 것이
 | :--------------: | :-------------: |
 |       O(1)       |     O(n^2)      |
 
-#### [code](https://github.com/JaeYeopHan/algorithm_basic_java/blob/master/src/test/java/sort/SelectionSort.java)
 
 </br>
 
@@ -203,7 +201,6 @@ n 개의 원소를 가진 배열을 정렬할 때, i 번째를 정렬할 순서�
 | :--------------: | :-------------: |
 |       O(1)       |     O(n^2)      |
 
-#### [code](https://github.com/JaeYeopHan/algorithm_basic_java/blob/master/src/test/java/sort/InsertionSort.java)
 
 </br>
 
@@ -225,7 +222,6 @@ n 개의 원소를 가진 배열을 정렬할 때, i 번째를 정렬할 순서�
 
 `binary heap` 자료구조를 활용할 Sorting 방법에는 두 가지 방법이 존재한다. 하나는 정렬의 대상인 데이터들을 힙에 넣었다가 꺼내는 원리로 Sorting 을 하게 되는 방법이고, 나머지 하나는 기존의 배열을 `heapify`(heap 으로 만들어주는 과정)을 거쳐 꺼내는 원리로 정렬하는 방법이다. `heap`에 데이터를 저장하는 시간 복잡도는 `O(log n)`이고, 삭제 시간 복잡도 또한 `O(log n)`이 된다. 때문에 힙 자료구조를 사용하여 Sorting 을 하는데 time complexity 는 `O(log n)`이 된다. 이 정렬을 하려는 대상이 n 개라면 time complexity 는 `O(nlogn)`이 된다.
 
-`Heap`자료구조에 대한 설명은 [DataStructure - Binary Heap](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/tree/master/DataStructure#binary-heap)부분을 참고하면 된다.
 
 | Space Complexity | Time Complexity |
 | :--------------: | :-------------: |
@@ -255,7 +251,6 @@ Sorting 기법 중 가장 빠르다고 해서 quick 이라는 이름이 붙여�
 | :--------------: | :-------------: |
 |       O(log(n))       |    O(nlogn)     |
 
-#### [code](https://github.com/JaeYeopHan/algorithm_basic_java/blob/master/src/test/java/sort/QuickSort.java)
 
 </br>
 
@@ -305,8 +300,6 @@ Count Sort 는 말 그대로 몇 개인지 개수를 세어 정렬하는 방식�
 #### 더 읽을거리
 
 * [Sorting Algorithm 을 비판적으로 바라보자](http://asfirstalways.tistory.com/338)
-
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#algorithm)
 
 </br>
 
@@ -378,9 +371,6 @@ Count Sort 는 말 그대로 몇 개인지 개수를 세어 정렬하는 방식�
 | :--------------: | :-------------: |
 |       O(n)       |   O(loglogn)    |
 
-#### [code](https://github.com/alstn2468/BaekJoon_Online_Judge/blob/master/1900~1999/1929.c)
-
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#algorithm)
 
 </br>
 
@@ -412,10 +402,3 @@ O(N!) : 크기가 N 인 순열
 * https://www.codeground.org/
 * https://onlinejudge.org/
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#algorithm)
-
-</br>
-
-</br>
-
-_Algorithm.end_

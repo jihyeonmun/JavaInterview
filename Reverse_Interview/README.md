@@ -1,6 +1,6 @@
 # Reverse Interview
 
-> [@JaeYeopHan](https://github.com/JaeYeopHan): 한국어로 번역을 진행하다보니 현재 한국 상황에 맞게 끔 약간씩 수정을 했습니다. 또 낯선 용어가 있을 수 있어 해당 내용을 보충했습니다. 그만큼 의역도 많으니 본문도 함께 보시길 추천드립니다. (_원문: https://github.com/viraptor/reverse-interview_)
+> (_원문: https://github.com/viraptor/reverse-interview_)
 
 ## 👨‍💻 회사에 궁금한 점은 없으신가요?
 
@@ -166,9 +166,6 @@
 
 - 이 자리/팀/회사에서 일하여 가장 좋은 점은 그리고 가장 나쁜 점은 무엇인가요?
 
-## 💬 질문 건의
-
-추가하고 싶은 내용이 있다면 언제든지 [ISSUE](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/issues)를 올려주세요!
 
 ## 📝 References
 

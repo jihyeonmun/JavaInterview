@@ -35,7 +35,7 @@
     * Document Model
     * Column Model
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)
 
 </br>
 
@@ -69,7 +69,7 @@
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-5-database)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-5-database)
 
 </br>
 
@@ -135,7 +135,8 @@ _결론부터 말하자면 그렇지 않다._
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-5-database)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-5-database)
+
 
 </br>
 
@@ -244,7 +245,8 @@ _각 정규형은 그의 선행 정규형보다 더 엄격한 조건을 갖는�
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-5-database)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-5-database)
+
 
 </br>
 
@@ -358,7 +360,8 @@ Deadlock 이 발생한다. 일반적인 DBMS는 교착상태를 독자적으로 
 * 한 테이블의 복수 행을 복수의 연결에서 순서 없이 갱신하면 교착상태가 발생하기 쉽다, 이 경우에는 테이블 단위의 잠금을 획득해 갱신을 직렬화 하면 동시성을 떨어지지만 교착상태를 회피할 수 있다.
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-5-database)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-5-database)
+
 
 </br>
 
@@ -374,7 +377,7 @@ Deadlock 이 발생한다. 일반적인 DBMS는 교착상태를 독자적으로 
 
 * http://java.ihoney.pe.kr/76
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-5-database)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-5-database)
 
 </br>
 
@@ -438,7 +441,7 @@ _ex) MongoDB_
 
 대부분의 컬럼 모델 NoSQL 은 쓰기와 읽기 중에 쓰기에 더 특화되어 있다. 데이터를 먼저 커밋로그와 메모리에 저장한 후 응답하기 때문에 빠른 응답속도를 제공한다. 그렇기 때문에 읽기 연산 대비 쓰기 연산이 많은 서비스나 빠른 시간 안에 대량의 데이터를 입력하고 조회하는 서비스를 구현할 때 가장 좋은 성능을 보인다. 채팅 내용 저장, 실시간 분석을 위한 데이터 저장소 등의 서비스 구현에 적합하다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-5-database)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-5-database)
 
 </br>
 

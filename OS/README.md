@@ -34,7 +34,7 @@
   * Locality
   * Caching line
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)
 
 </br>
 
@@ -77,7 +77,6 @@ _PCB 에 저장되는 정보_
 
 PC 값은 스레드가 명령어의 어디까지 수행하였는지를 나타나게 된다. 스레드는 CPU 를 할당받았다가 스케줄러에 의해 다시 선점당한다. 그렇기 때문에 명령어가 연속적으로 수행되지 못하고 어느 부분까지 수행했는지 기억할 필요가 있다. 따라서 PC 레지스터를 독립적으로 할당한다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
 
 </br>
 
@@ -103,7 +102,6 @@ PC 값은 스레드가 명령어의 어디까지 수행하였는지를 나타나
 
 멀티 스레드는 멀티 프로세스보다 적은 메모리 공간을 차지하고 문맥 전환이 빠르다는 장점이 있지만, 오류로 인해 하나의 스레드가 종료되면 전체 스레드가 종료될 수 있다는 점과 동기화 문제를 안고 있다. 반면 멀티 프로세스 방식은 하나의 프로세스가 죽더라도 다른 프로세스에는 영향을 끼치지 않고 정상적으로 수행된다는 장점이 있지만, 멀티 스레드보다 많은 메모리 공간과 CPU 시간을 차지한다는 단점이 존재한다. 이 두 가지는 동시에 여러 작업을 수행한다는 점에서 같지만 적용해야 하는 시스템에 따라 적합/부적합이 구분된다. 따라서 대상 시스템의 특징에 따라 적합한 동작 방식을 선택하고 적용해야 한다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
 
 </br>
 
@@ -157,7 +155,6 @@ _cf) 메모리에 프로그램이 너무 많이 올라가도, 너무 적게 올�
 
 Suspended(stopped) : 외부적인 이유로 프로세스의 수행이 정지된 상태로 메모리에서 내려간 상태를 의미한다. 프로세스 전부 디스크로 swap out 된다. blocked 상태는 다른 I/O 작업을 기다리는 상태이기 때문에 스스로 ready state 로 돌아갈 수 있지만 이 상태는 외부적인 이유로 suspending 되었기 때문에 스스로 돌아갈 수 없다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
 
 </br>
 
@@ -257,7 +254,6 @@ _스케줄링 대상은 Ready Queue 에 있는 프로세스들이다._
 또 너무 작아지면 스케줄링 알고리즘의 목적에는 이상적이지만 잦은 context switch 로 overhead 가 발생한다.
 그렇기 때문에 적당한 `time quantum`을 설정하는 것이 중요하다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
 
 </br>
 
@@ -280,7 +276,6 @@ _글로만 설명하기가 어려운 것 같아 그림과 함께 설명된 링�
 
 * http://asfirstalways.tistory.com/348
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
 
 </br>
 
@@ -346,8 +341,6 @@ Spin lock이라고 불리는 Semaphore 초기 버전에서 Critical Section 에 
 * 고급 언어의 설계 구조물로서, 개발자의 코드를 상호배제 하게끔 만든 추상화된 데이터 형태이다.
 * 공유자원에 접근하기 위한 키 획득과 자원 사용 후 해제를 모두 처리한다. (세마포어는 직접 키 해제와 공유자원 접근 처리가 필요하다. )
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
-
 ---
 
 ## 메모리 관리 전략
@@ -395,7 +388,6 @@ Spin lock이라고 불리는 Semaphore 초기 버전에서 Critical Section 에 
 * 단점 : 서로 다른 크기의 세그먼트들이 메모리에 적재되고 제거되는 일이 반복되다 보면, 자유 공간들이 많은 수의 작은 조각들로 나누어져 못 쓰게 될 수도 있다.(외부 단편화)
 
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
 
 ---
 
@@ -517,7 +509,6 @@ Spin lock이라고 불리는 Semaphore 초기 버전에서 Critical Section 에 
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
 
 ---
 
@@ -547,7 +538,7 @@ Spin lock이라고 불리는 Semaphore 초기 버전에서 Critical Section 에 
 2.  Set Associative
 3.  Direct Map
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-1-4-운영체제)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-1-4-운영체제)
 
 </br>
 

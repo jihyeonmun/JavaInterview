@@ -10,7 +10,8 @@
 * [normalize.css vs reset.css](#normalize-vs-reset)
 * [그 외 프론트엔드 개발 환경 관련](#그-외-프론트엔드-개발-환경-관련)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)
+
 
 ## 브라우저의 동작 원리
 
@@ -26,7 +27,7 @@
 * [Web fundamentals - Critical-rendering-path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/?hl=ko)
 * [브라우저의 Critical path (한글)](http://m.post.naver.com/viewer/postView.nhn?volumeNo=8431285&memberNo=34176766)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-3-1-front-end)
 
 </br>
 
@@ -73,7 +74,8 @@
 * [Cross-Origin-Resource-Sharing 에 대해서](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 * [구루비 - CORS 에 대해서](http://wiki.gurubee.net/display/SWDEV/CORS+%28Cross-Origin+Resource+Sharing%29)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-3-1-front-end)
+
 
 </br>
 
@@ -85,7 +87,8 @@
 
 * [크로스 브라우징 이슈에 대응하는 프론트엔드 개발자들의 전략](http://asfirstalways.tistory.com/237)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-3-1-front-end)
+
 
 </br>
 
@@ -145,7 +148,6 @@
 
 * [HTML5 앱과 웹사이트를 보다 빠르게 하는 50 가지 - yongwoo Jeon](https://www.slideshare.net/mixed/html5-50)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
 
 </br>
 
@@ -154,7 +156,8 @@
 * 그림과 함께 설명하기 위해 일단 블로그 링크를 추가한다.
 * http://asfirstalways.tistory.com/244
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-3-1-front-end)
+
 
 </br>
 
@@ -211,7 +214,8 @@
 * [CSS 방법론 SMACSS 에 대해 알아보자](https://brunch.co.kr/@larklark/1)
 * [BEM 에 대해서](https://en.bem.info/)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-3-1-front-end)
+
 
 </br>
 
@@ -236,7 +240,8 @@
 - 바벨과 폴리필이란?
   - (작성중)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-3-1-front-end)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-3-1-front-end)
+
 
 </br>
 
