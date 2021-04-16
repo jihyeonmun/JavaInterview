@@ -7,7 +7,7 @@
 * [Promise](#promise)
 * [Arrow Function](#arrow-function)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)
 
 ## JavaScript Event Loop
 
@@ -16,7 +16,6 @@
 * [JavaScript 이벤트 루프에 대해서](http://asfirstalways.tistory.com/362)
 * [자바스크립트의 비동기 처리 과정](http://sculove.github.io/blog/2018/01/18/javascriptflow/)
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-2-javascript)
 
 </br>
 
@@ -75,7 +74,6 @@ var foo = function( ) {
 
 이 두번째 예제의 함수 표현은 함수 리터럴을 할당하는 구조이기 때문에 호이스팅 되지 않으며 그렇기 때문에 런타임 환경에서 `Type Error`를 발생시킨다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-2-javascript)
 
 </br>
 
@@ -126,8 +124,6 @@ callFunc();
 #### Reference
 
 * [TOAST meetup - 자바스크립트의 스코프와 클로저](http://meetup.toast.com/posts/86)
-
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-2-javascript)
 
 </br>
 
@@ -270,8 +266,6 @@ myObj.func1();
 * `apply` vs `bind`, `call`
   `apply` 메소드에는 첫번째 인자로 `this`를 넘겨주고 두번째 인자로 넘겨줘야 하는 파라미터를 배열의 형태로 전달한다. `bind`메소드와 `call`메소드는 각각의 파라미터를 하나씩 넘겨주는 형태이다.
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-2-javascript)
-
 </br>
 
 ## Promise
@@ -284,15 +278,12 @@ Javascript 에서는 대부분의 작업들이 비동기로 이루어진다. 콜
 * https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Promise
 * https://developers.google.com/web/fundamentals/getting-started/primers/promises?hl=ko
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-2-javascript)
 
 </br>
 
 ### Personal Recommendation
 
 * [ECMAScript6 학습하기](https://jaeyeophan.github.io/categories/ECMAScript6)
-
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-2-javascript)
 
 </br>
 
@@ -349,9 +340,6 @@ async function makeRequest() {
 * https://medium.com/@constell99/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%9D%98-async-await-%EA%B0%80-promises%EB%A5%BC-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B2%8C-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EB%8A%94-6%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-c5fe0add656c
 </br>
 
-</br>
-
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-2-javascript)
 
 </br>
 
@@ -400,7 +388,7 @@ var p = new Person();
 
 </br>
 
-[뒤로](https://github.com/JaeYeopHan/for_beginner)/[위로](#part-2-2-javascript)
+[뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-2-2-javascript)
 
 </br>
 
