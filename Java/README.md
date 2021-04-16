@@ -18,9 +18,14 @@
 
 [뒤로](https://github.com/jihyeonmun/JavaInterview)/[위로](#part-2-1-java)
 
-</br>
 
-</br>
+## 세부 문서
+
+[1. Garbage Collection](https://github.com/jihyeonmun/JavaInterview/blob/main/Java/GC.md)
+[2. Annotation](https://github.com/jihyeonmun/JavaInterview/blob/main/Java/Annotation.md)
+[3. Java Virtual Machine](https://github.com/jihyeonmun/JavaInterview/blob/main/Java/JVM.md)
+
+
 
 ## Collection
 
