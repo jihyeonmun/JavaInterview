@@ -18,7 +18,7 @@ OOP는 현실 세계를 프로그래밍으로 옮겨와 현실 세계의 사물�
 
 #### [ OOP의 5가지 설계 원칙 ]
 |OOP||
-|:--|:--:|
+|:--:|:--|
 |SRP(Single Responsibility Principle, 단일 책임 원칙)| 클래스는 단 하나의 목적을 가져야 하며, 클래스를 변경하는 이유는 단 하나의 이유여야 한다.|
 |OCP(Open-Closed Principle, 개방 폐쇠 원칙)| 클래스는 확장에는 열려 있고, 변경에는 닫혀 있어야 한다.|
 |LSP(Liskov Substitution Principle, 리스코프 치환 원칙)| 상위 타입의 객체를 하위 타입으로 바꾸어도 프로그램은 일관되게 동작해야 한다.|
